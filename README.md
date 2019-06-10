@@ -1,7 +1,5 @@
-<h1>SMTP / Mail access Cracker</h1>
-<p><a href="https://github.com/aron-tn/SMTP-Mail.acess-Cracker-Checker"><img src="https://img.shields.io/badge/SMTP%20CRACKER-V2-green.svg" alt="Version" data-canonical-src="https://img.shields.io/badge/Mail%20Access%20CRACKER-V2-red.svg" style="max-width:100%;"></a>
-<a href="https://github.com/aron-tn/SMTP-Mail.acess-Cracker-Checker"><img src="https://img.shields.io/badge/Mail%20Access%20CRACKER-V2-red.svg" alt="Stage" data-canonical-src="https://img.shields.io/badge/Mail%20Access%20CRACKER-V2-red.svg" style="max-width:100%;"></a>
-<a href="https://github.com/aron-tn/SMTP-Mail.acess-Cracker-Checker"><img src="https://img.shields.io/badge/Supported%20OS-windows%2FLinux%2Fandroid-blue.svg" alt="Build" data-canonical-src="https://img.shields.io/badge/Supported%20OS-windows%2FLinux%2Fandroid-blue.svg" style="max-width:100%;"></a></p>
+<h1>SMTP - Mail access Cracker</h1>
+<p><a href="https://github.com/aron-tn/SMTP-Mail.acess-Cracker-Checker"><img src="https://img.shields.io/badge/Supported%20OS-windows%2FLinux%2Fandroid-blue.svg" alt="Build" data-canonical-src="https://img.shields.io/badge/Supported%20OS-windows%2FLinux%2Fandroid-blue.svg" style="max-width:100%;"></a></p>
 <p>SMTP / Mail access Cracker ☣ Scanner & check & send to email <br>You can use this tool to crack smtp | mail access</p>
 
 <h2>SMTP / Mail access Cracker</h2>
