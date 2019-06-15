@@ -41,7 +41,7 @@ except:
   print"\033[91m[\033[92m?\033[91m] Installing requests Module\033[00m"
   if os.name=='nt':
     try:
-      os.system('cd:\Python27\Scripts\pip2.exe install requests')
+      os.system('C:\Python27\Scripts\pip2.exe install requests')
     except:
       print "Install Python-Pip Sir"
       raw_input('')
@@ -53,7 +53,7 @@ except:
   print"\033[91m[\033[92m?\033[91m] Installing colorama Module\033[00m"
   if os.name=='nt':
     try:
-      os.system('cd:\Python27\Scripts\pip2.exe install colorama')
+      os.system('C:\Python27\Scripts\pip2.exe install colorama')
     except:
       print "Install Python-Pip Sir"
       raw_input('')
